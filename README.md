@@ -3,7 +3,6 @@
 ## About Me
 - 🔭 I'm currently working on AI-powered development tools
 - 🌱 I'm passionate about building practical AI applications
-- 💻 I specialize in Python, Flutter, C#, and JavaScript
 - 🤖 Creator of AI Code Agent - an intelligent coding assistant
 
 ## Latest Project
@@ -21,5 +20,4 @@
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eren-kara-a440511bb)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://erenkara.net)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:erenkaraaa47@gmail.com)
